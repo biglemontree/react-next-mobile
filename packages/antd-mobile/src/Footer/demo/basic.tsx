@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Footer as Footer } from 'reactUI-mobile'
+import { unstable_Footer as Footer } from 'reactui-mobile-mobile'
 
 const { Text, Tags, Links, Logo } = Footer
 

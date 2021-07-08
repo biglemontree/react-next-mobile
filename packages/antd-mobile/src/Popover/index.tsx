@@ -4,7 +4,7 @@ import Item from './Item'
 import { PopoverPropsType } from './PropsType'
 import { withError } from '../rmc'
 import { useTracker } from '../hooks'
-import 'reactUI-mobile-styles/lib/Popover'
+import 'reactui-mobile-mobile-styles/lib/Popover'
 
 function recursiveCloneChildren(
   children: any,

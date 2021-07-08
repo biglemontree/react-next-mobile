@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Container as Container } from 'reactUI-mobile'
+import { unstable_Container as Container } from 'reactui-mobile-mobile'
 import { useSelect } from '../../_internal/demo'
 
 export default () => {

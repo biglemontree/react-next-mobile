@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_SearchBar as SearchBar,
   unstable_Modal as Modal,
-} from 'reactUI-mobile'
+} from 'reactui-mobile-mobile'
 
 export default () => {
   const inputRef = React.createRef<any>()

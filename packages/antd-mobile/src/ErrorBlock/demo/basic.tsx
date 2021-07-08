@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_ErrorBlock as ErrorBlock,
   unstable_Button as Button,
-} from 'reactUI-mobile'
+} from 'reactui-mobile-mobile'
 
 export default () => (
   <div>

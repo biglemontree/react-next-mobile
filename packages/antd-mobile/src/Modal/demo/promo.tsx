@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_Modal as Modal,
   unstable_Button as Button,
-} from 'reactUI-mobile'
+} from 'reactui-mobile-mobile'
 
 export default () => {
   const [show, setShow] = React.useState(false)

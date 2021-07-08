@@ -5,7 +5,7 @@ import { getDataAttr } from '../_internal'
 import { useTracker, useControlledByChecked } from '../hooks'
 import { SwitchPropsType } from './PropsType'
 
-import 'reactUI-mobile-styles/lib/Switch'
+import 'reactui-mobile-mobile-styles/lib/Switch'
 
 const prefixCls = 'amd-switch'
 export const Switch: React.FC<SwitchPropsType> = props => {

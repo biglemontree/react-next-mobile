@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Result as Result } from 'reactUI-mobile'
+import { unstable_Result as Result } from 'reactui-mobile-mobile'
 
 export default () => (
   <>

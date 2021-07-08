@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_HorizontalScrollbar as HorizontalScrollbar } from 'reactUI-mobile'
+import { unstable_HorizontalScrollbar as HorizontalScrollbar } from 'reactui-mobile-mobile'
 import './demo.less'
 
 export default () => (

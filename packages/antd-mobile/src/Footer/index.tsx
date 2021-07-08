@@ -10,7 +10,7 @@ import {
   LogoPropsType,
 } from './PropsType'
 
-import 'reactUI-mobile-styles/lib/Footer'
+import 'reactui-mobile-mobile-styles/lib/Footer'
 
 const prefixCls = 'amd-footer'
 

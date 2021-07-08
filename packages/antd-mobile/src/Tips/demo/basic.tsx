@@ -2,8 +2,8 @@ import * as React from 'react'
 import {
   unstable_Tips as Tips,
   unstable_Button as Button,
-} from 'reactUI-mobile'
-import { AlipayCircleFill } from 'reactUI-mobile-icons'
+} from 'reactui-mobile-mobile'
+import { AlipayCircleFill } from 'reactui-mobile-mobile-icons'
 import { useSelect } from '../../_internal/demo'
 import './demo.less'
 

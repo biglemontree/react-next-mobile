@@ -1,3 +1,3 @@
 export type IconType =
   | React.ReactNode
-  | typeof import('reactUI-mobile-icons').AlipayCircleFill
+  | typeof import('reactui-mobile-mobile-icons').AlipayCircleFill

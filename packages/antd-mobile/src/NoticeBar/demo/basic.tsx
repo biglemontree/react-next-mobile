@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_NoticeBar as NoticeBar } from 'reactUI-mobile'
+import { unstable_NoticeBar as NoticeBar } from 'reactui-mobile-mobile'
 
 import './basic.less'
 

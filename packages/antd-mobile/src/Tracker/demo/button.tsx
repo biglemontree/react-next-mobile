@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_Tracker as Tracker,
   unstable_Button as Button,
-} from 'reactUI-mobile'
+} from 'reactui-mobile-mobile'
 
 // Tracker.setTracker(amdTracker)
 

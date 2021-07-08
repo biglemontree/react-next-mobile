@@ -1,7 +1,7 @@
 import * as React from 'react'
-import Touchable from 'reactUI-mobile-touchable'
+import Touchable from 'reactui-mobile-mobile-touchable'
 import classnames from 'classnames'
-import { TouchablePropType } from 'reactUI-mobile-touchable/es/PropsType'
+import { TouchablePropType } from 'reactui-mobile-mobile-touchable/es/PropsType'
 
 const TouchableFeedback: React.FC<{
   activeClassName: string

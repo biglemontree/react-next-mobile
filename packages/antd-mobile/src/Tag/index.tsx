@@ -4,7 +4,7 @@ import { getDataAttr, renderIcon } from '../_internal'
 import { TagPropsType } from './PropsType'
 import { Touchable, withError } from '../rmc'
 import { useTracker } from '../hooks'
-import 'reactUI-mobile-styles/lib/Tag'
+import 'reactui-mobile-mobile-styles/lib/Tag'
 
 const prefixCls = 'amd-tag'
 export const Tag: React.FC<TagPropsType> = props => {

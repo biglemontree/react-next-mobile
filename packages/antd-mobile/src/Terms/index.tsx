@@ -6,7 +6,7 @@ import { getDataAttr } from '../_internal'
 import { useTracker } from '../hooks'
 import { TermsPropsType } from './PropsType'
 
-import 'reactUI-mobile-styles/lib/Terms'
+import 'reactui-mobile-mobile-styles/lib/Terms'
 
 const prefixCls = 'amd-terms'
 export const Terms: React.FC<TermsPropsType> = ({

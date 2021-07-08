@@ -5,7 +5,7 @@ import {
   RightOutline,
   SoundOutline,
   InformationCircleFill,
-} from 'reactUI-mobile-icons'
+} from 'reactui-mobile-mobile-icons'
 import Marquee from './Marquee'
 import {
   NoticeBarPropsType,
@@ -15,7 +15,7 @@ import {
 import { Touchable, withError } from '../rmc'
 import { getDataAttr } from '../_internal'
 import { useTracker } from '../hooks'
-import 'reactUI-mobile-styles/lib/NoticeBar'
+import 'reactui-mobile-mobile-styles/lib/NoticeBar'
 
 function transAnimateSpeedToFps(
   speed: NoticeBarPropsType['animateSpeed'],

@@ -4,7 +4,7 @@ import {
   unstable_Button as Button,
   unstable_Form as Form,
   unstable_Modal as Modal,
-} from 'reactUI-mobile'
+} from 'reactui-mobile-mobile'
 import WhiteSpace from '../../WhiteSpace'
 import WingBlank from '../../WingBlank'
 

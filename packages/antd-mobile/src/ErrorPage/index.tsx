@@ -5,7 +5,7 @@ import { getDataAttr } from '../_internal'
 import { useTracker } from '../hooks'
 import { ErrorPagePropsType } from './PropsType'
 
-import 'reactUI-mobile-styles/lib/ErrorPage'
+import 'reactui-mobile-mobile-styles/lib/ErrorPage'
 
 export const ErrorPage: React.FC<ErrorPagePropsType> = ({
   src,

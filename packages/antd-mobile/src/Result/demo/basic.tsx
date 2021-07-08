@@ -1,6 +1,6 @@
 import * as React from 'react'
-import { unstable_Result as Result } from 'reactUI-mobile'
-import { AlipayCircleFill } from 'reactUI-mobile-icons'
+import { unstable_Result as Result } from 'reactui-mobile-mobile'
+import { AlipayCircleFill } from 'reactui-mobile-mobile-icons'
 
 export default () => (
   <>

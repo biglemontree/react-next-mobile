@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_GuideModal as GuideModal } from 'reactUI-mobile'
+import { unstable_GuideModal as GuideModal } from 'reactui-mobile-mobile'
 import Page from './Page'
 
 const { Step } = GuideModal

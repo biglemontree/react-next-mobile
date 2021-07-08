@@ -2,11 +2,11 @@ import * as React from 'react'
 import classnames from 'classnames'
 import { getDataAttr, renderIcon } from '../_internal'
 import { TipsPropsType } from './PropsType'
-import { CloseOutline } from 'reactUI-mobile-icons'
+import { CloseOutline } from 'reactui-mobile-mobile-icons'
 import { Touchable, withError } from '../rmc'
 import { useTracker } from '../hooks'
 
-import 'reactUI-mobile-styles/lib/Tips'
+import 'reactui-mobile-mobile-styles/lib/Tips'
 
 const prefixCls = 'amd-tips'
 const Tips: React.FC<TipsPropsType> = props => {
