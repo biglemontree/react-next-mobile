@@ -1,12 +1,12 @@
 import * as React from 'react'
 import classnames from 'classnames'
-import { SearchOutline, CloseCircleFill } from 'react-mobile-icons'
+import { SearchOutline, CloseCircleFill } from 'reactUI-mobile-icons'
 import { Touchable, withError } from '../rmc'
 import { useTracker, useControlledByValue } from '../hooks'
 import { SearchBarPropsType } from './PropsType'
 import { convertRef, getDataAttr } from '../_internal'
 
-import 'react-mobile-styles/lib/SearchBar'
+import 'reactUI-mobile-styles/lib/SearchBar'
 
 const noop = () => null
 const prefixCls = 'amd-search'

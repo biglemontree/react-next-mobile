@@ -1,5 +1,5 @@
-# react-mobile
+# reactUI-mobile
 
 ### Usage
 
-npm i react-mobile
+npm i reactUI-mobile

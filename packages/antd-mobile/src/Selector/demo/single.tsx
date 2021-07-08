@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Selector as Selector } from 'react-mobile'
+import { unstable_Selector as Selector } from 'reactUI-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 
 export default () => {

@@ -6,13 +6,13 @@ import {
   InformationCircleFill,
   ClockCircleFill,
   ExclamationCircleFill,
-} from 'react-mobile-icons'
+} from 'reactUI-mobile-icons'
 import { useTracker } from '../hooks'
 import { withError } from '../rmc'
 import { ResultPropsType } from './PropsType'
 import Button from '../Button'
 
-import 'react-mobile-styles/lib/Result'
+import 'reactUI-mobile-styles/lib/Result'
 
 const prefixCls = 'amd-result'
 

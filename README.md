@@ -2,9 +2,9 @@
 
 https://next.mobile.ant.design
 
-npm i react-mobile
+npm i reactUI-mobile
 
-import { Button } from 'react-mobile'
+import { Button } from 'reactUI-mobile'
 
 ## Contributing
 

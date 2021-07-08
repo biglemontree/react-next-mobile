@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Steps as Steps } from 'react-mobile'
+import { unstable_Steps as Steps } from 'reactUI-mobile'
 
 const { Step } = Steps
 

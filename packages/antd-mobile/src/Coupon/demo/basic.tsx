@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Coupon as Coupon } from 'react-mobile'
+import { unstable_Coupon as Coupon } from 'reactUI-mobile'
 
 export default () => (
   <>

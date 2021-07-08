@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Popover as Popover } from 'react-mobile'
+import { unstable_Popover as Popover } from 'reactUI-mobile'
 
 import {
   MoreOutline,
@@ -7,7 +7,7 @@ import {
   InformationCircleOutline,
   SystemQRcodeOutline,
   GiftOutline,
-} from 'react-mobile-icons'
+} from 'reactUI-mobile-icons'
 
 const Item = Popover.Item
 

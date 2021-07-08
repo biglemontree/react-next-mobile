@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Tabs as Tabs } from 'react-mobile'
+import { unstable_Tabs as Tabs } from 'reactUI-mobile'
 import { useSelect } from '../../_internal/demo'
 
 const { Item } = Tabs

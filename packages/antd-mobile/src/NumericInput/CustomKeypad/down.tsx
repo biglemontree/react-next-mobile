@@ -1,4 +1,4 @@
-import { _getIconByMeta } from 'react-mobile-icons'
+import { _getIconByMeta } from 'reactUI-mobile-icons'
 
 const meta = {
   type: 'numeric-input-down',

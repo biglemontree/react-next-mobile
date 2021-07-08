@@ -27,7 +27,7 @@ footer: Ant Design Mobile <br /> Design by [Alipay](https://design.alipay.com)<b
 引入按钮组件
 
 ```tsx | pure
-import { Button } from 'react-mobile'
+import { Button } from 'reactUI-mobile'
 
 <Button onPress={() => {}}>我是一个按钮</Button>
 ```

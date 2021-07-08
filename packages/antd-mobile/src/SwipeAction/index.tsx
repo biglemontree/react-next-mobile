@@ -6,7 +6,7 @@ import { withError } from '../rmc'
 import { getDataAttr } from '../_internal'
 import { useTracker } from '../hooks'
 
-import 'react-mobile-styles/lib/SwipeAction'
+import 'reactUI-mobile-styles/lib/SwipeAction'
 
 const Swipe: any = Swipeout
 

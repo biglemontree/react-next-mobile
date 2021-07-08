@@ -1,5 +1,5 @@
 {
-  "name": "react-mobile-icons",
+  "name": "reactUI-mobile-icons",
   "version": "3.0.0-alpha.8",
   "repository": {
     "type": "git",
@@ -11,8 +11,8 @@
   "main": "lib/index.js",
   "module": "es/index.js",
   "dependencies": {
-    "react-mobile-styles": "3.0.0-alpha.8",
-    "react-mobile-touchable": "3.0.0-alpha.8",
+    "reactUI-mobile-styles": "3.0.0-alpha.8",
+    "reactUI-mobile-touchable": "3.0.0-alpha.8",
     "@babel/runtime": "^7.5.5",
     "classnames": "^2.2.6"
   },

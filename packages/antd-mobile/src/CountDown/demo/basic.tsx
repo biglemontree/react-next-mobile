@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_Button as Button,
   unstable_CountDown as CountDown,
-} from 'react-mobile'
+} from 'reactUI-mobile'
 
 export default () => {
   const [down, setDown] = React.useState(false)

@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Stepper as Stepper } from 'react-mobile'
+import { unstable_Stepper as Stepper } from 'reactUI-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 const App = () => {
   return (

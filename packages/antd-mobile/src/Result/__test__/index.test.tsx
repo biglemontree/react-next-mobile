@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { shallow } from 'enzyme'
 import toJSON from 'enzyme-to-json'
-import { AlipayCircleFill } from 'react-mobile-icons'
+import { AlipayCircleFill } from 'reactUI-mobile-icons'
 import { Result } from '..'
 
 describe('Button', () => {

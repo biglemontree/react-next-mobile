@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { mount } from 'enzyme'
 import toJSON from 'enzyme-to-json'
-import { unstable_Button as Button } from 'react-mobile'
+import { unstable_Button as Button } from 'reactUI-mobile'
 import Terms from '..'
 
 describe('Terms', () => {

@@ -1,10 +1,10 @@
 import * as React from 'react'
-import { AddOutline, MinusOutline } from 'react-mobile-icons'
+import { AddOutline, MinusOutline } from 'reactUI-mobile-icons'
 import { withError, InputNumber } from '../rmc'
 import { useTracker } from '../hooks'
 import { StepperPropsType } from './PropsType'
 
-import 'react-mobile-styles/lib/Stepper'
+import 'reactUI-mobile-styles/lib/Stepper'
 
 export const Stepper: React.FC<StepperPropsType> = props => {
   useTracker(Stepper.displayName)

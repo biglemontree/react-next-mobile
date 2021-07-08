@@ -3,7 +3,7 @@ import {
   unstable_Modal as Modal,
   unstable_Button as Button,
   unstable_Toast as Toast,
-} from 'react-mobile'
+} from 'reactUI-mobile'
 import { useSelect } from '../../_internal/demo'
 
 export default () => {

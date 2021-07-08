@@ -1,6 +1,6 @@
 # 内置 Icon
 ```tsx | pure
-import { AlipayCircleFill } from 'react-mobile-icons'
+import { AlipayCircleFill } from 'reactUI-mobile-icons'
 <AlipayCircleFill color="red" />
 ```
 
@@ -10,7 +10,7 @@ import { AlipayCircleFill } from 'react-mobile-icons'
 ## svg 生成 meta
 
 ```tsx | pure
-import { _getIconByMeta } from 'react-mobile-icons'
+import { _getIconByMeta } from 'reactUI-mobile-icons'
 
 const meta = {
   type: 'custom-icon',
@@ -28,7 +28,7 @@ const CustomIcon = _getIconByMeta(meta)
 首先在 iconfont.cn 选取你心仪的图标，然后生成对应的 js
 
 ```tsx | pure
-import { Icon } from 'react-mobile'
+import { Icon } from 'reactUI-mobile'
 
 const MyIcon = Icon.createFromIconfontCN(
   '//at.alicdn.com/t/font_1511412_ksruzvafwng.js',

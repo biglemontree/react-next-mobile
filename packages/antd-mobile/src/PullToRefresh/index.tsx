@@ -4,7 +4,7 @@ import { useTracker } from '../hooks'
 import { withError } from '../rmc'
 import { PullToRefreshPropsType } from './PropsType'
 
-import 'react-mobile-styles/lib/PullToRefresh'
+import 'reactUI-mobile-styles/lib/PullToRefresh'
 
 const PullToRefresh: React.FC<PullToRefreshPropsType> = props => {
   useTracker(PullToRefresh.displayName)

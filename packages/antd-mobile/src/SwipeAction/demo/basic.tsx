@@ -3,7 +3,7 @@ import {
   unstable_SwipeAction as SwipeAction,
   unstable_List as List,
   unstable_Switch as Switch,
-} from 'react-mobile'
+} from 'reactUI-mobile'
 
 export default () => {
   const [radius, setRadius] = React.useState(false)

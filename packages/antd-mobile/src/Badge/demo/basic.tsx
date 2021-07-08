@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Badge as Badge } from 'react-mobile'
+import { unstable_Badge as Badge } from 'reactUI-mobile'
 import './basic.less'
 export default () => (
   <div className="badge-demo-container">

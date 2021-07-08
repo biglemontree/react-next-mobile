@@ -1,6 +1,6 @@
 import * as React from 'react'
-import { unstable_Tag as Tag } from 'react-mobile'
-import { AddOutline } from 'react-mobile-icons'
+import { unstable_Tag as Tag } from 'reactUI-mobile'
+import { AddOutline } from 'reactUI-mobile-icons'
 import { useSelect } from '../../_internal/demo'
 import './demo.less'
 

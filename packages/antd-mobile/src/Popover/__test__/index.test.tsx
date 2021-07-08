@@ -6,7 +6,7 @@ import {
   SystemQRcodeOutline,
   InformationCircleOutline,
   MoreOutline,
-} from 'react-mobile-icons'
+} from 'reactUI-mobile-icons'
 import { Popover } from '..'
 
 const Item = Popover.Item

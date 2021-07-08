@@ -4,7 +4,7 @@ import { Touchable, withError } from '../rmc'
 import { getDataAttr } from '../_internal'
 import { useTracker } from '../hooks'
 import { AvatarPropsType } from './PropsType'
-import 'react-mobile-styles/lib/Avatar'
+import 'reactUI-mobile-styles/lib/Avatar'
 
 export const Avatar: React.FC<AvatarPropsType> = ({
   img,

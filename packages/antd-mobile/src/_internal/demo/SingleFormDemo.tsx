@@ -4,7 +4,7 @@ import {
   unstable_List as List,
   unstable_Switch as Switch,
   unstable_Modal as Modal,
-} from 'react-mobile'
+} from 'reactUI-mobile'
 import WhiteSpace from '../../WhiteSpace'
 import WingBlank from '../../WingBlank'
 import { uuid } from '..'

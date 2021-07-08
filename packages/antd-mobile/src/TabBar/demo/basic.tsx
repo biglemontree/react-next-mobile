@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_TabBar as TabBar } from 'react-mobile'
+import { unstable_TabBar as TabBar } from 'reactUI-mobile'
 
 const Item = TabBar.Item
 import './demo.less'

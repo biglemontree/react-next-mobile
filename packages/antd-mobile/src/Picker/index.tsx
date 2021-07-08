@@ -9,7 +9,7 @@ import { withError, Labelable } from '../rmc'
 import { useTracker, useControlledByValue, useCompleteLocale } from '../hooks'
 import { PickerPropsType, PickerData } from './PropsType'
 
-import 'react-mobile-styles/lib/Picker'
+import 'reactUI-mobile-styles/lib/Picker'
 
 const prefixCls = 'amd-picker'
 const pickerPrefixCls = 'amd-picker-col'

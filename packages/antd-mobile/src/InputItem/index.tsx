@@ -1,13 +1,13 @@
 import * as React from 'react'
 import classnames from 'classnames'
-import { CloseCircleFill } from 'react-mobile-icons'
+import { CloseCircleFill } from 'reactUI-mobile-icons'
 import { getDataAttr } from '../_internal'
 import { withError } from '../rmc'
 import { useTracker, useControlledByValue, useFocus } from '../hooks'
 import { InputItemPropsType } from './PropsType'
 import useCompositionChange from './useCompositionChange'
 
-import 'react-mobile-styles/lib/InputItem'
+import 'reactUI-mobile-styles/lib/InputItem'
 
 const prefixCls = 'amd-input-item'
 

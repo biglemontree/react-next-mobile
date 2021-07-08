@@ -3,7 +3,7 @@ import * as React from 'react'
 import { BadgePropsType } from './PropsType'
 import { withError } from '../rmc'
 import { useTracker } from '../hooks'
-import 'react-mobile-styles/lib/Badge'
+import 'reactUI-mobile-styles/lib/Badge'
 
 export const Badge: React.FC<BadgePropsType> = props => {
   useTracker(Badge.displayName)

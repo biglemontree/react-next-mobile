@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Switch as Switch } from 'react-mobile'
+import { unstable_Switch as Switch } from 'reactUI-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 
 export default () => {

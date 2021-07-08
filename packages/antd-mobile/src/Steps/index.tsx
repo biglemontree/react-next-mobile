@@ -6,7 +6,7 @@ import StepContext from './StepContext'
 import Step from './Step'
 import { StepsPropsType } from './PropsType'
 
-import 'react-mobile-styles/lib/Steps'
+import 'reactUI-mobile-styles/lib/Steps'
 
 export const Steps: React.FC<StepsPropsType> & {
   Step: typeof Step

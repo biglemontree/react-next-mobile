@@ -1,5 +1,5 @@
-# react-mobile-icons
+# reactUI-mobile-icons
 
 ### Usage
 
-npm i react-mobile-icons
+npm i reactUI-mobile-icons

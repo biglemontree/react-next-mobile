@@ -3,7 +3,7 @@ module.exports = {
     __VERSION__: require('./lerna.json').version,
   },
   moduleNameMapper: {
-    'react-mobile$': '<rootDir>/packages/antd-mobile/src/index.ts',
+    'reactUI-mobile$': '<rootDir>/packages/antd-mobile/src/index.ts',
   },
   setupFilesAfterEnv: ['<rootDir>/setup-jest.js'],
 }

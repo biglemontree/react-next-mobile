@@ -1,5 +1,5 @@
-# react-mobile-styles
+# reactUI-mobile-styles
 
 ### Usage
 
-npm i react-mobile-styles
+npm i reactUI-mobile-styles

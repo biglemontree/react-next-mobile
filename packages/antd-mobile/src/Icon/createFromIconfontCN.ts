@@ -1,4 +1,4 @@
-import { _BaseIcon as BaseIcon } from 'react-mobile-icons'
+import { _BaseIcon as BaseIcon } from 'reactUI-mobile-icons'
 
 const customCache = new Set<string>()
 

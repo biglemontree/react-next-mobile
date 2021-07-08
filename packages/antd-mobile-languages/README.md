@@ -1,5 +1,5 @@
-# react-mobile-languages
+# reactUI-mobile-languages
 
 ### Usage
 
-npm i react-mobile-languages
+npm i reactUI-mobile-languages

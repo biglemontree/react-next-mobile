@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_NumericInput as NumericInput } from 'react-mobile'
+import { unstable_NumericInput as NumericInput } from 'reactUI-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 const App = () => {
   return (

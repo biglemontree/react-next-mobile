@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { CheckOutline } from 'react-mobile-icons'
+import { CheckOutline } from 'reactUI-mobile-icons'
 import CheckboxCore from '../Checkbox/Checkbox'
 import { useControlledByChecked } from '../hooks'
 import { RadioPropsType } from './PropsType'

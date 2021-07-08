@@ -1,4 +1,4 @@
-export { default as Touchable } from 'react-mobile-touchable'
+export { default as Touchable } from 'reactUI-mobile-touchable'
 export { default as EventInside } from './EventInside'
 export { default as TouchFeedback } from './TouchFeedback'
 export { default as InputNumber } from './InputNumber'

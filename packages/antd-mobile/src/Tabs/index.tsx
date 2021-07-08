@@ -12,7 +12,7 @@ import { useTracker } from '../hooks'
 import SwipeableViews from 'react-swipeable-views'
 import { BasisTabItem, CapsuleTabItem, MixinTabItem } from './items'
 
-import 'react-mobile-styles/lib/Tabs'
+import 'reactUI-mobile-styles/lib/Tabs'
 
 const Tabs: React.FC<TabsPropsType> & { Item: typeof Item } = ({
   children,

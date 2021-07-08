@@ -2,8 +2,8 @@ import * as React from 'react'
 import {
   unstable_Button as Button,
   unstable_Modal as Modal,
-} from 'react-mobile'
-import { AlipayCircleFill } from 'react-mobile-icons'
+} from 'reactUI-mobile'
+import { AlipayCircleFill } from 'reactUI-mobile-icons'
 import { useSelect } from '../../_internal/demo'
 
 const fn = (e: any) =>

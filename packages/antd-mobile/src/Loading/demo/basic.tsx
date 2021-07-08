@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_Loading as Loading,
   unstable_Button as Button,
-} from 'react-mobile'
+} from 'reactUI-mobile'
 import './style.less'
 
 const prefixCls = 'amd-loading-demo'
