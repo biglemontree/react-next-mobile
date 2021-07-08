@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Dialog from 'rmc-dialog'
-import { CloseOutline, CloseCircleOutline } from 'reactui-mobile-mobile-icons'
+import { CloseOutline, CloseCircleOutline } from 'reactui-mobile-icons'
 
 import { withError, Touchable } from '../rmc'
 import { ModalPropsType } from './PropsType'

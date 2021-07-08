@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Picker as Picker } from 'reactui-mobile-mobile'
+import { unstable_Picker as Picker } from 'reactui-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 
 const defaultSeasons = [

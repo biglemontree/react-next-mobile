@@ -1,5 +1,5 @@
 {
-  "name": "reactui-mobile-mobile-icons",
+  "name": "reactui-mobile-icons",
   "version": "3.0.0-alpha.8",
   "repository": {
     "type": "git",
@@ -11,8 +11,8 @@
   "main": "lib/index.js",
   "module": "es/index.js",
   "dependencies": {
-    "reactui-mobile-mobile-styles": "3.0.0-alpha.8",
-    "reactui-mobile-mobile-touchable": "3.0.0-alpha.8",
+    "reactui-mobile-styles": "3.0.0-alpha.8",
+    "reactui-mobile-touchable": "3.0.0-alpha.8",
     "@babel/runtime": "^7.5.5",
     "classnames": "^2.2.6"
   },

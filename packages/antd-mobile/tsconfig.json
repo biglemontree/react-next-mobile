@@ -10,7 +10,7 @@
     "declaration": true,
     "baseUrl": ".",
     "paths": {
-      "reactui-mobile-mobile": ["src/index.ts"]
+      "reactui-mobile": ["src/index.ts"]
     }
   }
 }

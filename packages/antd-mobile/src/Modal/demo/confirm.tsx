@@ -3,7 +3,7 @@ import {
   unstable_Modal as Modal,
   unstable_Button as Button,
   unstable_Toast as Toast,
-} from 'reactui-mobile-mobile'
+} from 'reactui-mobile'
 
 export default () => {
   const handle = () => {

@@ -1,7 +1,7 @@
 import * as React from 'react'
 import Dialog from 'rmc-dialog'
-import { CloseOutline, LeftOutline } from 'reactui-mobile-mobile-icons'
-import Touchable from 'reactui-mobile-mobile-touchable'
+import { CloseOutline, LeftOutline } from 'reactui-mobile-icons'
+import Touchable from 'reactui-mobile-touchable'
 import { createGlobalElement } from '../_internal'
 
 interface ActionSheetStandardOptions {

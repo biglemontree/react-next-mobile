@@ -1,6 +1,6 @@
 import * as React from 'react'
 import classnames from 'classnames'
-import { RightOutline } from 'reactui-mobile-mobile-icons'
+import { RightOutline } from 'reactui-mobile-icons'
 import { BriefPropsType, ListItemPropsType } from './PropsType'
 import { Touchable } from '../rmc'
 import { renderIcon, getDataAttr } from '../_internal'

@@ -14,7 +14,7 @@ nav:
 Tracker.setTracker(selfTracker: ITracker)
 
 ```typescript | pure
-import { Tracker } from 'reactui-mobile-mobile'
+import { Tracker } from 'reactui-mobile'
 
 Tracker.setTracker({
   log(component, params, ext) {

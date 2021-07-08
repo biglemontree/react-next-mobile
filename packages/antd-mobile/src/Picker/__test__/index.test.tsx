@@ -4,7 +4,7 @@ import toJSON from 'enzyme-to-json'
 import {
   unstable_Picker as Picker,
   unstable_List as List,
-} from 'reactui-mobile-mobile'
+} from 'reactui-mobile'
 
 const seasons = [
   [

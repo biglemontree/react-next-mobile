@@ -3,13 +3,9 @@ import classNames from 'classnames'
 import { withError, Touchable } from '../rmc'
 import { useTracker } from '../hooks'
 import { ContainerPropsType } from './PropsType'
-import {
-  RightOutline,
-  CloseOutline,
-  MoreOutline,
-} from 'reactui-mobile-mobile-icons'
+import { RightOutline, CloseOutline, MoreOutline } from 'reactui-mobile-icons'
 
-import 'reactui-mobile-mobile-styles/lib/Container'
+import 'reactui-mobile-styles/lib/Container'
 
 export const Container: React.FC<ContainerPropsType> = props => {
   useTracker(Container.displayName)

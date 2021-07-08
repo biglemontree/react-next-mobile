@@ -5,7 +5,7 @@ import { withError } from '../rmc'
 import { getDataAttr } from '../_internal'
 import Item from './Item'
 import { ListPropsType } from './PropsType'
-import 'reactui-mobile-mobile-styles/lib/List'
+import 'reactui-mobile-styles/lib/List'
 
 const prefixCls = 'amd-list'
 

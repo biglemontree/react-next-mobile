@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Icon as Icon } from 'reactui-mobile-mobile'
+import { unstable_Icon as Icon } from 'reactui-mobile'
 
 const MyIcon = Icon.createFromIconfontCN(
   '//at.alicdn.com/t/font_1511412_tf0zzivq4qa.js',

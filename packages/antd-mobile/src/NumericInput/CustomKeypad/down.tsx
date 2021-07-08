@@ -1,4 +1,4 @@
-import { _getIconByMeta } from 'reactui-mobile-mobile-icons'
+import { _getIconByMeta } from 'reactui-mobile-icons'
 
 const meta = {
   type: 'numeric-input-down',

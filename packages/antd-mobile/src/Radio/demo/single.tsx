@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Radio as Radio } from 'reactui-mobile-mobile'
+import { unstable_Radio as Radio } from 'reactui-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 
 export default () => {

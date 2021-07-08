@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_PullToRefresh as PullToRefresh,
   unstable_List as List,
-} from 'reactui-mobile-mobile'
+} from 'reactui-mobile'
 import { useSelect } from '../../_internal/demo'
 
 const { Item } = List

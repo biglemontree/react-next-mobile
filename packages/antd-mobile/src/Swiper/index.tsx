@@ -7,7 +7,7 @@ import { SwiperPropsType } from './PropsType'
 import { withError } from '../rmc'
 import { useTracker } from '../hooks'
 
-import 'reactui-mobile-mobile-styles/lib/Swiper'
+import 'reactui-mobile-styles/lib/Swiper'
 import 'swiper/swiper.less'
 
 SwiperCore.use([Pagination, A11y, Autoplay])

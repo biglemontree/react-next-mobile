@@ -1,6 +1,6 @@
 import * as React from 'react'
 import classnames from 'classnames'
-import { CloseOutline } from 'reactui-mobile-mobile-icons'
+import { CloseOutline } from 'reactui-mobile-icons'
 import Button from '../Button'
 import { StandardOptions } from './PropsType'
 import { createModal } from './common'

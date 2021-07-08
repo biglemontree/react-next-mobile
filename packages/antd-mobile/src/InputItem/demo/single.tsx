@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_InputItem as InputItem } from 'reactui-mobile-mobile'
+import { unstable_InputItem as InputItem } from 'reactui-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 
 export default () => {

@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Avatar as Avatar } from 'reactui-mobile-mobile'
+import { unstable_Avatar as Avatar } from 'reactui-mobile'
 import { useSelect } from '../../_internal/demo'
 
 export default () => {

@@ -1,6 +1,6 @@
 import * as React from 'react'
 import classnames from 'classnames'
-import { CheckCircleFill, CloseCircleFill } from 'reactui-mobile-mobile-icons'
+import { CheckCircleFill, CloseCircleFill } from 'reactui-mobile-icons'
 import { withError } from '../rmc'
 import { getDataAttr } from '../_internal'
 import { useTracker } from '../hooks'

@@ -7,7 +7,7 @@ import Item from './Item'
 import RadioCore from './Radio'
 import { RadioPropsType } from './PropsType'
 
-import 'reactui-mobile-mobile-styles/lib/Radio'
+import 'reactui-mobile-styles/lib/Radio'
 
 // 由于 Radio 没有 no checked 的展示方式，因此这里暂不提供单独使用
 // export const Radio: React.FC<RadioPropsType> & {

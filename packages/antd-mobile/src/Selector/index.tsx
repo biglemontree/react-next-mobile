@@ -3,7 +3,7 @@ import classnames from 'classnames'
 import { Touchable, withError, Labelable } from '../rmc'
 import { useTracker, useControlledByValue } from '../hooks'
 import { SelectorPropsType, SelectorItemType } from './PropsType'
-import 'reactui-mobile-mobile-styles/lib/Selector'
+import 'reactui-mobile-styles/lib/Selector'
 
 const prefixCls = 'amd-selector'
 

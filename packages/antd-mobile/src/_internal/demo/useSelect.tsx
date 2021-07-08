@@ -3,7 +3,7 @@ import {
   unstable_List as List,
   unstable_Switch as Switch,
   unstable_Radio as Radio,
-} from 'reactui-mobile-mobile'
+} from 'reactui-mobile'
 
 type RadioDataValue = string[]
 interface Data {

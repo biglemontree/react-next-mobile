@@ -6,7 +6,7 @@ import {
   SystemQRcodeOutline,
   InformationCircleOutline,
   MoreOutline,
-} from 'reactui-mobile-mobile-icons'
+} from 'reactui-mobile-icons'
 import { Popover } from '..'
 
 const Item = Popover.Item

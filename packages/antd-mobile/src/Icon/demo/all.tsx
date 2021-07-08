@@ -1,5 +1,5 @@
 import * as React from 'react'
-import * as icons from 'reactui-mobile-mobile-icons'
+import * as icons from 'reactui-mobile-icons'
 import './all.less'
 
 const iconsArr = Object.keys(icons).filter(i => !i.startsWith('_'))

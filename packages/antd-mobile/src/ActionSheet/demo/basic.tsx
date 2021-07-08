@@ -3,7 +3,7 @@ import {
   unstable_ActionSheet as ActionSheet,
   unstable_Button as Button,
   unstable_Modal as Modal,
-} from 'reactui-mobile-mobile'
+} from 'reactui-mobile'
 import { useSelect } from '../../_internal/demo'
 
 export default () => {

@@ -1,4 +1,4 @@
-import { _BaseIcon as BaseIcon } from 'reactui-mobile-mobile-icons'
+import { _BaseIcon as BaseIcon } from 'reactui-mobile-icons'
 
 const customCache = new Set<string>()
 
