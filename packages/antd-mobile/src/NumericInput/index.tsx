@@ -12,7 +12,7 @@
 import * as React from 'react'
 import { createPortal } from 'react-dom'
 import classnames from 'classnames'
-import { CloseCircleFill } from '@frontend/mobile-icons'
+import { CloseCircleFill } from 'react-mobile-icons'
 import { withError, Labelable, LabelInstance } from '../rmc'
 import { getDataAttr } from '../_internal'
 import {
@@ -25,7 +25,7 @@ import { NumericInputPropsType } from './PropsType'
 import CustomKeypad, { SPECIAL_KEY } from './CustomKeypad'
 import scrollToViewIfNeed from './scrollToViewIfNeed'
 
-import '@frontend/mobile-styles/lib/NumericInput'
+import 'react-mobile-styles/lib/NumericInput'
 
 const prefixCls = 'amd-numeric-input'
 

@@ -1,5 +1,5 @@
 {
-  "name": "antd-mobile-packages",
+  "name": "react-next-mobile",
   "private": true,
   "scripts": {
     "init": "npm run svgo && node scripts/icon.js",

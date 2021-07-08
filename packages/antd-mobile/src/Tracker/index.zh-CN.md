@@ -14,7 +14,7 @@ nav:
 Tracker.setTracker(selfTracker: ITracker)
 
 ```typescript | pure
-import { Tracker } from '@frontend/mobile'
+import { Tracker } from 'react-mobile'
 
 Tracker.setTracker({
   log(component, params, ext) {

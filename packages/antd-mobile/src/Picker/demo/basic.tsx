@@ -4,7 +4,7 @@ import {
   unstable_Form as Form,
   unstable_Button as Button,
   unstable_Modal as Modal,
-} from '@frontend/mobile'
+} from 'react-mobile'
 import WhiteSpace from '../../WhiteSpace'
 import WingBlank from '../../WingBlank'
 

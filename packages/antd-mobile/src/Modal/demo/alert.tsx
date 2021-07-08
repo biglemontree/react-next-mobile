@@ -3,7 +3,7 @@ import {
   unstable_Modal as Modal,
   unstable_Button as Button,
   unstable_Toast as Toast,
-} from '@frontend/mobile'
+} from 'react-mobile'
 
 export default () => {
   const handle = () => {

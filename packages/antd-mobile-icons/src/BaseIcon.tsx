@@ -1,9 +1,9 @@
 import * as React from 'react'
 import classnames from 'classnames'
-import Touchable from '@frontend/mobile-touchable'
+import Touchable from 'react-mobile-touchable'
 import { IconPropsType } from './PropsType'
 
-import '@frontend/mobile-styles/lib/Icon'
+import 'react-mobile-styles/lib/Icon'
 
 const prefixCls = 'amd-icon'
 

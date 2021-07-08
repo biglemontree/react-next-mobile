@@ -1,5 +1,5 @@
-# @frontend/mobile
+# react-mobile
 
 ### Usage
 
-npm i @frontend/mobile
+npm i react-mobile

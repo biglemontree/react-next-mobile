@@ -6,7 +6,7 @@ import { IconPropsType, TitlePropsType, CouponPropsType } from './PropsType'
 import { useState } from 'react'
 import Button from '../Button'
 
-import '@frontend/mobile-styles/lib/Coupon'
+import 'react-mobile-styles/lib/Coupon'
 
 const CouponPrefixCls = `amd-coupon`
 

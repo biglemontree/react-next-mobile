@@ -1,5 +1,5 @@
-# @frontend/mobile-icons
+# react-mobile-icons
 
 ### Usage
 
-npm i @frontend/mobile-icons
+npm i react-mobile-icons

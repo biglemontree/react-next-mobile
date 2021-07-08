@@ -4,8 +4,8 @@ import {
   unstable_Toast as Toast,
   unstable_Switch as Switch,
   unstable_Button as Button,
-} from '@frontend/mobile'
-import { AlipayCircleFill } from '@frontend/mobile-icons'
+} from 'react-mobile'
+import { AlipayCircleFill } from 'react-mobile-icons'
 import { useSelect } from '../../_internal/demo'
 const { Item } = List
 

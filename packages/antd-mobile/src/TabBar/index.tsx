@@ -4,7 +4,7 @@ import { TabBarPropsType, TabBarItemPropsType } from './PropsType'
 import { withError, Touchable } from '../rmc'
 import { useTracker } from '../hooks'
 import { renderIcon } from '../_internal'
-import '@frontend/mobile-styles/lib/TabBar'
+import 'react-mobile-styles/lib/TabBar'
 import { useState } from 'react'
 
 const prefixCls = 'amd-tabbar'

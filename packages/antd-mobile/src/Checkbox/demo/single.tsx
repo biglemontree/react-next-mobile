@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Checkbox as Checkbox } from '@frontend/mobile'
+import { unstable_Checkbox as Checkbox } from 'react-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 
 export default () => {

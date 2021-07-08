@@ -5,7 +5,7 @@ import { useTracker, useCompleteLocale } from '../hooks'
 import { renderIcon, getDataAttr } from '../_internal'
 import { ButtonPropsType } from './PropsType'
 import LoadingIcon from '../Loading/icon'
-import '@frontend/mobile-styles/lib/Button'
+import 'react-mobile-styles/lib/Button'
 
 const prefixCls = 'amd-button'
 

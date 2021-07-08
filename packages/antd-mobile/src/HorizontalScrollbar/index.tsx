@@ -2,7 +2,7 @@ import * as React from 'react'
 import { useScrollPercent, useTracker } from '../hooks'
 import { withError } from '../rmc'
 
-import '@frontend/mobile-styles/lib/HorizontalScrollbar'
+import 'react-mobile-styles/lib/HorizontalScrollbar'
 
 function ProgressArc({ percent }: { percent: number }) {
   const track = React.useRef<any>()

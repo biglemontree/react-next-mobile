@@ -6,7 +6,7 @@ import Group from './Group'
 import Item from './Item'
 import { CheckboxPropsType } from './PropsType'
 
-import '@frontend/mobile-styles/lib/Checkbox'
+import 'react-mobile-styles/lib/Checkbox'
 
 export const Checkbox: React.FC<CheckboxPropsType> & {
   Group: typeof Group

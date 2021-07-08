@@ -1,10 +1,7 @@
 import * as React from 'react'
 import { shallow } from 'enzyme'
 import toJSON from 'enzyme-to-json'
-import {
-  unstable_Picker as Picker,
-  unstable_List as List,
-} from '@frontend/mobile'
+import { unstable_Picker as Picker, unstable_List as List } from 'react-mobile'
 
 const seasons = [
   [

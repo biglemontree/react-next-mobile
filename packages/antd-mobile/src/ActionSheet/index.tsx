@@ -5,7 +5,7 @@ import { Touchable } from '../rmc'
 import { promisify, createGlobalElement } from '../_internal'
 import createStandard from './standard'
 
-import '@frontend/mobile-styles/lib/ActionSheet'
+import 'react-mobile-styles/lib/ActionSheet'
 
 interface ActionSheetOptions {
   maskClosable?: boolean

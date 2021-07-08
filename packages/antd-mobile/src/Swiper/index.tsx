@@ -7,7 +7,7 @@ import { SwiperPropsType } from './PropsType'
 import { withError } from '../rmc'
 import { useTracker } from '../hooks'
 
-import '@frontend/mobile-styles/lib/Swiper'
+import 'react-mobile-styles/lib/Swiper'
 import 'swiper/swiper.less'
 
 SwiperCore.use([Pagination, A11y, Autoplay])

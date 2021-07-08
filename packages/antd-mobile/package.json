@@ -1,5 +1,5 @@
 {
-  "name": "@frontend/mobile",
+  "name": "react-mobile",
   "version": "3.0.0-alpha.8",
   "description": "基于 React 的移动设计规范实现",
   "keywords": [
@@ -34,10 +34,10 @@
   "module": "es/index.js",
   "types": "es/index.d.ts",
   "dependencies": {
-    "@frontend/mobile-icons": "3.0.0-alpha.8",
-    "@frontend/mobile-languages": "3.0.0-alpha.8",
-    "@frontend/mobile-styles": "3.0.0-alpha.8",
-    "@frontend/mobile-touchable": "3.0.0-alpha.8",
+    "react-mobile-icons": "3.0.0-alpha.8",
+    "react-mobile-languages": "3.0.0-alpha.8",
+    "react-mobile-styles": "3.0.0-alpha.8",
+    "react-mobile-touchable": "3.0.0-alpha.8",
     "@babel/runtime": "^7.5.5",
     "@types/react-swipeable-views": "^0.13.0",
     "array-tree-filter": "^2.1.0",

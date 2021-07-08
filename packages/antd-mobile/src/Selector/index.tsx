@@ -3,7 +3,7 @@ import classnames from 'classnames'
 import { Touchable, withError, Labelable } from '../rmc'
 import { useTracker, useControlledByValue } from '../hooks'
 import { SelectorPropsType, SelectorItemType } from './PropsType'
-import '@frontend/mobile-styles/lib/Selector'
+import 'react-mobile-styles/lib/Selector'
 
 const prefixCls = 'amd-selector'
 

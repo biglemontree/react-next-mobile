@@ -4,12 +4,12 @@ import {
   CheckOutline,
   CloseOutline,
   ExclamationOutline,
-} from '@frontend/mobile-icons'
+} from 'react-mobile-icons'
 import LoadingIcon from '../Loading/icon'
 // @ts-ignore
 import Notification from 'rmc-notification'
 
-import '@frontend/mobile-styles/lib/Toast'
+import 'react-mobile-styles/lib/Toast'
 
 let messageInstance: any
 const prefixCls = 'amd-toast'

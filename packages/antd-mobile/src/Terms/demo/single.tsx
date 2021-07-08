@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Terms as Terms } from '@frontend/mobile'
+import { unstable_Terms as Terms } from 'react-mobile'
 import { SingleFormDemo } from '../../_internal/demo'
 
 export default () => {

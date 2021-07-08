@@ -8,7 +8,7 @@ import { useForm } from 'rc-field-form'
 import Group from './Group'
 import Item from './Item'
 
-import '@frontend/mobile-styles/lib/Form'
+import 'react-mobile-styles/lib/Form'
 
 const Form: React.FC<
   FormPropsType & {

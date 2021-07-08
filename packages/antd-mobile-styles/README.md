@@ -1,5 +1,5 @@
-# @frontend/mobile-styles
+# react-mobile-styles
 
 ### Usage
 
-npm i @frontend/mobile-styles
+npm i react-mobile-styles

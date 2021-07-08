@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Swiper as Swiper } from '@frontend/mobile'
+import { unstable_Swiper as Swiper } from 'react-mobile'
 import { useSelect } from '../../_internal/demo'
 import './demo.less'
 

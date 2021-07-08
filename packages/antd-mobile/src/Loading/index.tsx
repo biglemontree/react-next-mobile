@@ -5,7 +5,7 @@ import { useTracker } from '../hooks'
 import { withError } from '../rmc'
 import { LoadingPropsType } from './PropsType'
 import Icon from './icon'
-import '@frontend/mobile-styles/lib/Loading'
+import 'react-mobile-styles/lib/Loading'
 
 const prefixCls = 'amd-loading'
 

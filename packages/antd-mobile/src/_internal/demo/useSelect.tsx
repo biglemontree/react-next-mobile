@@ -3,7 +3,7 @@ import {
   unstable_List as List,
   unstable_Switch as Switch,
   unstable_Radio as Radio,
-} from '@frontend/mobile'
+} from 'react-mobile'
 
 type RadioDataValue = string[]
 interface Data {

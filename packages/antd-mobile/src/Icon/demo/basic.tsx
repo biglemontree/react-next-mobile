@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { AlipayCircleFill } from '@frontend/mobile-icons'
+import { AlipayCircleFill } from 'react-mobile-icons'
 
 export default () => (
   <div>

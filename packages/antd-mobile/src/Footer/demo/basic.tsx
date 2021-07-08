@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Footer as Footer } from '@frontend/mobile'
+import { unstable_Footer as Footer } from 'react-mobile'
 
 const { Text, Tags, Links, Logo } = Footer
 

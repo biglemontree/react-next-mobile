@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_Modal as Modal,
   unstable_Button as Button,
-} from '@frontend/mobile'
+} from 'react-mobile'
 
 export default () => {
   const [show, setShow] = React.useState(false)

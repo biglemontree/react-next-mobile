@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_Toast as Toast,
   unstable_Button as Button,
-} from '@frontend/mobile'
+} from 'react-mobile'
 
 export default () => {
   function successToast() {

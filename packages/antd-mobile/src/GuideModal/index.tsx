@@ -11,7 +11,7 @@ import { GuideModalPropsType } from './PropsType'
 import Step from './Step'
 import Next from './Next'
 export { Step, Next }
-import '@frontend/mobile-styles/lib/GuideModal'
+import 'react-mobile-styles/lib/GuideModal'
 
 const STORAGE_KEY = 'GUIDE_MODAL'
 

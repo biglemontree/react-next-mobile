@@ -1,7 +1,7 @@
 import * as React from 'react'
-import Touchable from '@frontend/mobile-touchable'
+import Touchable from 'react-mobile-touchable'
 import classnames from 'classnames'
-import { TouchablePropType } from '@frontend/mobile-touchable/es/PropsType'
+import { TouchablePropType } from 'react-mobile-touchable/es/PropsType'
 
 const TouchableFeedback: React.FC<{
   activeClassName: string

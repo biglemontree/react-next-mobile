@@ -130,7 +130,7 @@ Form 在 pc 端一直是讨论的焦点，原生 form 组件虽然功能丰富�
 - 所有输入组件都支持在 移植的 Form 中使用，也支持单独使用（确保使用原生 form 提交时，值是正确的）
 
   ```tsx | pure
-  import { Form } from '@frontend/mobile'
+  import { Form } from 'react-mobile'
   <Form onFinish={x}>
     <Form.Group>
       <Form.Item name="a">

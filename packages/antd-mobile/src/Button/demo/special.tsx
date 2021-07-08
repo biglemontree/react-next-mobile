@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { unstable_Button as Button } from '@frontend/mobile'
+import { unstable_Button as Button } from 'react-mobile'
 
 export default () => {
   return (

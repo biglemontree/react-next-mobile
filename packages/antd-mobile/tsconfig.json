@@ -10,7 +10,7 @@
     "declaration": true,
     "baseUrl": ".",
     "paths": {
-      "@frontend/mobile": ["src/index.ts"]
+      "react-mobile": ["src/index.ts"]
     }
   }
 }

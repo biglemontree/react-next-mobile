@@ -3,8 +3,8 @@ import {
   unstable_Button as Button,
   unstable_NumericInput as NumericInput,
   unstable_LocaleProvider as LocaleProvider,
-} from '@frontend/mobile'
-import { en_US, zh_CN } from '@frontend/mobile-languages'
+} from 'react-mobile'
+import { en_US, zh_CN } from 'react-mobile-languages'
 
 export default () => {
   const [lang, setLang] = React.useState(zh_CN)

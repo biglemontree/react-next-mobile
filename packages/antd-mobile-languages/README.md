@@ -1,5 +1,5 @@
-# @frontend/mobile-languages
+# react-mobile-languages
 
 ### Usage
 
-npm i @frontend/mobile-languages
+npm i react-mobile-languages

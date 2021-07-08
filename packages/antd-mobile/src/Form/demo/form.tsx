@@ -13,8 +13,8 @@ import {
   unstable_Stepper as Stepper,
   unstable_Picker as Picker,
   unstable_Modal as Modal,
-} from '@frontend/mobile'
-import { AlipayCircleFill } from '@frontend/mobile-icons'
+} from 'react-mobile'
+import { AlipayCircleFill } from 'react-mobile-icons'
 import WhiteSpace from '../../WhiteSpace'
 import WingBlank from '../../WingBlank'
 

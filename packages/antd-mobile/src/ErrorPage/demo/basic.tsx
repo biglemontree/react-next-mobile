@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_ErrorPage as ErrorPage,
   unstable_Button as Button,
-} from '@frontend/mobile'
+} from 'react-mobile'
 
 export default () => (
   <div>

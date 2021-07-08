@@ -6,7 +6,7 @@ import { useTracker } from '../hooks'
 import Container from '../Container'
 import { ErrorBlockPropsType } from './PropsType'
 
-import '@frontend/mobile-styles/lib/ErrorBlock'
+import 'react-mobile-styles/lib/ErrorBlock'
 
 const prefixCls = 'amd-error-block'
 

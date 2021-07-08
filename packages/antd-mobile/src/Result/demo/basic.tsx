@@ -1,6 +1,6 @@
 import * as React from 'react'
-import { unstable_Result as Result } from '@frontend/mobile'
-import { AlipayCircleFill } from '@frontend/mobile-icons'
+import { unstable_Result as Result } from 'react-mobile'
+import { AlipayCircleFill } from 'react-mobile-icons'
 
 export default () => (
   <>

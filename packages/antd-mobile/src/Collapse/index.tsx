@@ -5,7 +5,7 @@ import { withError } from '../rmc'
 import { useTracker } from '../hooks'
 import { CollapsePropsType, CollapsePanelPropsType } from './PropsType'
 
-import '@frontend/mobile-styles/lib/Collapse'
+import 'react-mobile-styles/lib/Collapse'
 
 const RcPanel = RcCollapse.Panel
 

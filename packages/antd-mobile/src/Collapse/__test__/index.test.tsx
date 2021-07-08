@@ -4,7 +4,7 @@ import toJSON from 'enzyme-to-json'
 import {
   unstable_Collapse as Collapse,
   unstable_List as List,
-} from '@frontend/mobile'
+} from 'react-mobile'
 
 describe('Collapse', () => {
   it('snapshot', () => {

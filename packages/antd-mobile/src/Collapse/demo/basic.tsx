@@ -2,7 +2,7 @@ import * as React from 'react'
 import {
   unstable_Collapse as Collapse,
   unstable_List as List,
-} from '@frontend/mobile'
+} from 'react-mobile'
 
 export default () => (
   <div>

@@ -3,7 +3,7 @@ import alert from './alert'
 import confirm from './confirm'
 import Modal from './Modal'
 
-import '@frontend/mobile-styles/lib/Modal'
+import 'react-mobile-styles/lib/Modal'
 
 const DefaultModal: typeof Modal & {
   standard: typeof standard

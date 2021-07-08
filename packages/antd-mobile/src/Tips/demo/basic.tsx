@@ -1,9 +1,6 @@
 import * as React from 'react'
-import {
-  unstable_Tips as Tips,
-  unstable_Button as Button,
-} from '@frontend/mobile'
-import { AlipayCircleFill } from '@frontend/mobile-icons'
+import { unstable_Tips as Tips, unstable_Button as Button } from 'react-mobile'
+import { AlipayCircleFill } from 'react-mobile-icons'
 import { useSelect } from '../../_internal/demo'
 import './demo.less'
 
